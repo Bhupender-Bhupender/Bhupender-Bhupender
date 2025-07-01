@@ -7,7 +7,7 @@
 - 🌱 Also, **Data Science and Machine Learning With Scaler**
 - 🌱 Finished **Computer Science and Engineering**
 
-- 📫 How to reach me **beingbhupender@gmail.com**
+- 📫 How to reach me **bb.datasage@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
